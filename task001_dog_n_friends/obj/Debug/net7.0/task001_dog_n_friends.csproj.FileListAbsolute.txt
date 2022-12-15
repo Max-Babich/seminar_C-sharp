@@ -1,0 +1,15 @@
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\bin\Debug\net7.0\task001_dog_n_friends.exe
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\bin\Debug\net7.0\task001_dog_n_friends.deps.json
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\bin\Debug\net7.0\task001_dog_n_friends.runtimeconfig.json
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\bin\Debug\net7.0\task001_dog_n_friends.dll
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\bin\Debug\net7.0\task001_dog_n_friends.pdb
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.csproj.AssemblyReference.cache
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.AssemblyInfoInputs.cache
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.AssemblyInfo.cs
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.csproj.CoreCompileInputs.cache
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.dll
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\refint\task001_dog_n_friends.dll
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.pdb
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\task001_dog_n_friends.genruntimeconfig.cache
+E:\GIT\seminar1_C-sharp\seminar_C-sharp\task001_dog_n_friends\obj\Debug\net7.0\ref\task001_dog_n_friends.dll
